@@ -1,7 +1,7 @@
-### Hello World! 👋
-### <I´m Alejandro Zaragoza/>
+## <I´m Alejandro Zaragoza/>
+#### Hello World! ❤️
 
-##### Languages I use
+##### Languages :
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -18,3 +18,13 @@
 <i>Follow me:</i><br>
 <a href="https://www.instagram.com/alejandro.z.zaragoza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/daniel.zaragoza.16940/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.youtube.com/channel/UCCls9DU-7thPsI-r8KCaQAg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+
+
+<div align="right">
+  
+[![HitCount](http://hits.dwyl.com/Alejandro-Zaragoza/Alejandro-Zaragoza.svg)]() 
+![ViewCount](https://views.whatilearened.today/views/github/Alejandro-Zaragoza/Alejandro-Zaragoza.svg) 
+[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]()
+
+</div>
