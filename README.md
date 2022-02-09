@@ -1,5 +1,6 @@
-## <I´m Alejandro Zaragoza/>
-#### Hello World! ❤️
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
+<h1 align="center">I´m Alejandro Zaragoza ❤️ 
+ 
 
 ##### Languages :
 
