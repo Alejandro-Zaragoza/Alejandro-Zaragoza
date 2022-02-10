@@ -1,5 +1,5 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
-<h1 align="center">I´m Alejandro Zaragoza ❤️ 
+<h1 align="center">I´m Alejandro Zaragoza ❤️  
  
 ##### About me :
  
@@ -18,13 +18,13 @@ Certification in object-oriented programming courses
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-##### Some of my favorite open source projects
+##### My favorite tools for projects :
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-<i>Connect with me:</i><br>
+<i>Connect with me :</i><br>
 <a href="https://www.instagram.com/alejandro.z.zaragoza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/daniel.zaragoza.16940/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.youtube.com/channel/UCCls9DU-7thPsI-r8KCaQAg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
