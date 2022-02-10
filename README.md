@@ -3,6 +3,12 @@
  
 ##### About me :
  
+<strong>
+Technologist in automatic control and instrumentation <br>
+Studying a Software Development Engineering <br>
+Certification in object-oriented programming courses 
+</strong>
+ 
 ##### Languages :
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
