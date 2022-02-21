@@ -37,7 +37,7 @@ Certification in object-oriented programming courses
 [![Alejandro-Zaragoza github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Zaragoza&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/Alejandro-Zaragoza/github-readme-stats)
  
 </div>
- 
+<img src="https://www.bing.com/newtabredir?url=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F07%2Fhalo-gif-1.gif">
 <div align="right">
   
 [![HitCount](http://hits.dwyl.com/Alejandro-Zaragoza/Alejandro-Zaragoza.svg)]() 
