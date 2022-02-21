@@ -31,16 +31,18 @@ Certification in object-oriented programming courses
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danizaragoza133gmail.com)](mailto:danizaragoza133@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=&text=Olá!)](https://api.whatsapp.com/send?phone=&text=Hi!🖖)
 
-<div align="left">
+<div align="left"width="100px">
 
 
 [![Alejandro-Zaragoza github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Zaragoza&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/Alejandro-Zaragoza/github-readme-stats)
  
 </div>
  
-<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif">
+ <div align="center">
+<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif"width="300px">
+ </div>
  
-<div align="right">
+<div align="center">
   
 [![HitCount](http://hits.dwyl.com/Alejandro-Zaragoza/Alejandro-Zaragoza.svg)]() 
 ![ViewCount](https://views.whatilearened.today/views/github/Alejandro-Zaragoza/Alejandro-Zaragoza.svg) 
