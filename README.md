@@ -38,7 +38,7 @@ Certification in object-oriented programming courses
  
 </div>
  
-<img src="https://thumbs.gfycat.com/IllegalUnknownCranefly-size_restricted.gif">
+<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif">
  
 <div align="right">
   
