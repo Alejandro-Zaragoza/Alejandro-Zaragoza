@@ -39,7 +39,7 @@ Certification in object-oriented programming courses
  
 <div align="center">
 <img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif"width="300px"><br>
-<strong>Sometimes it's not about strength, sometimes it's about bravery!</strong><br>
+<strong>Sometimes it's not about strength, sometimes it's about bravery!</strong><br><br>
  
   
 [![HitCount](http://hits.dwyl.com/Alejandro-Zaragoza/Alejandro-Zaragoza.svg)]() 
