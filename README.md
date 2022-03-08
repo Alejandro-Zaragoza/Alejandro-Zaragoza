@@ -24,7 +24,7 @@ Certification in object-oriented programming courses
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
-<i>Connect with me :</i><br>
+##### Connect with me:
 <a href="https://www.instagram.com/alejandro.z.zaragoza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/daniel.zaragoza.16940/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.youtube.com/channel/UCCls9DU-7thPsI-r8KCaQAg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
@@ -33,16 +33,14 @@ Certification in object-oriented programming courses
 
 <div align="left"width="100px">
 
-
 [![Alejandro-Zaragoza github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Zaragoza&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/Alejandro-Zaragoza/github-readme-stats)
  
 </div>
  
- <div align="center">
-<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif"width="300px">
- </div>
- 
 <div align="center">
+<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif"width="300px"><br>
+<strong>Sometimes it's not about strength, sometimes it's about bravery!</strong><br>
+ 
   
 [![HitCount](http://hits.dwyl.com/Alejandro-Zaragoza/Alejandro-Zaragoza.svg)]() 
 ![ViewCount](https://views.whatilearened.today/views/github/Alejandro-Zaragoza/Alejandro-Zaragoza.svg) 
