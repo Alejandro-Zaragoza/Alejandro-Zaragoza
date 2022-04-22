@@ -6,7 +6,7 @@
 <strong>
 Technologist in automatic control and instrumentation <br>
 Studying a Software Development Engineering <br>
-Certification in object-oriented programming courses 
+courses in object-oriented programming courses 
 </strong>
  
 ##### Languages :
