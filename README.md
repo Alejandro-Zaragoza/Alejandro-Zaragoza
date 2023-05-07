@@ -30,14 +30,19 @@ Courses in object-oriented programming courses
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danizaragoza133gmail.com)](mailto:danizaragoza133@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=&text=Olá!)](https://api.whatsapp.com/send?phone=&text=Hi!🖖)
 
-<div align="left"width="100px">
+
+
+
+<div align="center"width="100px">
+ <img  src="https://tryhackme-badges.s3.amazonaws.com/DanielZaragozza.png" alt="TryHackMe">
+ 
 
 [![Alejandro-Zaragoza github stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Zaragoza&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/Alejandro-Zaragoza/github-readme-stats)
  
 </div>
  
 <div align="center">
-<img src="https://gifimage.net/wp-content/uploads/2017/07/halo-gif-1.gif"width="300px"><br>
+<img src="https://th.bing.com/th/id/R.542de1601e8e75772824f32c7a082187?rik=CYq9ScuZtecOuA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f07%2fhalo-gif-1.gif&ehk=C3c8oy0ZKo4R3l4YymRDJk3gI7uwu7rw0cCJyUluarQ%3d&risl=&pid=ImgRaw&r=0"width="300px"><br>
 <strong>Sometimes it's not about strength, sometimes it's about bravery!</strong><br><br>
  
   
