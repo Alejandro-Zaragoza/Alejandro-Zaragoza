@@ -42,7 +42,7 @@ Courses in object-oriented programming courses
 </div>
  
 <div align="center">
-<img src="https://th.bing.com/th/id/R.542de1601e8e75772824f32c7a082187?rik=CYq9ScuZtecOuA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f07%2fhalo-gif-1.gif&ehk=C3c8oy0ZKo4R3l4YymRDJk3gI7uwu7rw0cCJyUluarQ%3d&risl=&pid=ImgRaw&r=0"width="300px"><br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7YeN&psig=AOvVaw2sX33oXB3cmd3JeOlKlnsD&ust=1708746777890000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCj-YLIwIQDFQAAAAAdAAAAABAE"width="300px"><br>
 <strong>Sometimes it's not about strength, sometimes it's about bravery!</strong><br><br>
  
   
